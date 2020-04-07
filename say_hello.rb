@@ -1,5 +1,5 @@
 def say_hello(name)
-name = "Kent Beck"
+name = Kent Beck
   print "Hello #{name}!"
 
 end
